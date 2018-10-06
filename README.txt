@@ -1,5 +1,18 @@
 Thankyou for downloading! 
 
+VIDEO CLIPS
+Video clips are available in the Videos folder:
+
+CameraViews(HighRes).mp4 -> shows top down, right, left, back and free camera modes.
+CentrePiece_MirrorBall(highRes).mp4 -> Demo of statue, trees, mirror ball and lighting.
+DopplerEffect(HighRes).mp4 -> Demo of doppler effect (please turn on sound).
+FinishLeveL_Restart(HighRes).mp4 -> Demo of finish level and new level.
+Gameplay(HighRes).mp4 -> Demo of gameplay, collecting stars, collision with boxes
+LevelOverview(highRes).mp4 -> Overview of level
+SpeedUpOnLap(HighRes).mp4 -> Demo of lap and speed up
+Stars_Cubes_Track(HighRes).mp4 -> Closer look at stars, boxes, and track
+
+
 RUNNING THE APPLICATION
 
 Download the package and unzip. In the Release folder select either the SpaceRunner (highRes) executable, or the SpaceRunner (lowRes) executable. 
@@ -16,6 +29,7 @@ on example code from lectures and lab exercises. All game logic is original work
 
 The aim of the game is to collect as many stars as possible in the shortest amount of time. Colliding into cubes forfeits points, and at each lap, the speed of the 
 player increases making it harder to collect the stars. The level will end when all stars are collected, and the player can view their final score and time.
+NOTE: If the game becomes too fast, please close and restart. 
 
 
 CONTROLS
@@ -39,6 +53,7 @@ CAMERA VIEWS
 8 - Top view (view the ship from a top-down view)
 
 For any questions or feedback please feel free to email me (Becky) at: r.morley624@gmail.com
+
 
 ASSET REFERENCES 
 
