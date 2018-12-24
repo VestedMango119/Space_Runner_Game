@@ -25,10 +25,6 @@ out vec4 vEyePosition;
 
 out float fIntensity;
 
-// This function implements the Phong shading model
-// The code is based on the OpenGL 4.0 Shading Language Cookbook, Chapter 2, pp. 62 - 63, with a few tweaks. 
-// Please see Chapter 2 of the book for a detailed discussion.
-
 
 
 // This is the entry point into the vertex shader
